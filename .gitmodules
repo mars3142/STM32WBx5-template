@@ -1,0 +1,9 @@
+[submodule "hal/CMSIS_5"]
+	path = hal/CMSIS_5
+	url = https://github.com/ARM-software/CMSIS_5.git
+[submodule "hal/cmsis-device-wb"]
+	path = hal/cmsis-device-wb
+	url = git@github.com:STMicroelectronics/cmsis-device-wb.git
+[submodule "hal/stm32wbxx-hal-driver"]
+	path = hal/stm32wbxx-hal-driver
+	url = git@github.com:STMicroelectronics/stm32wbxx-hal-driver.git
