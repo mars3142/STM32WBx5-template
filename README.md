@@ -1,5 +1,5 @@
 # Cmake Project for STM32WB
-Minimal C++ project that builds for STM32F4xx devices. Tested with Nucleo Board P-NUCLEO-WB55.
+Minimal C++ project that builds for STM32WBxx devices. Tested with Nucleo Board P-NUCLEO-WB55.
 
 ## Adapted 
 
